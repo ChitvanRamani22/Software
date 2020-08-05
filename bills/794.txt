@@ -1,0 +1,17 @@
+              Welcome
+ Bill  Number: 794
+ Customer Name: golu
+ Customer Phone No:7748870220
+===============================
+ Products      Qty        Price
+===============================
+ Bath Soap:		1	  30 
+ Rice:		1	  80 
+ Sprite:		4	  240 
+ Maaza: 		1	  50 
+-------------------------------
+ Cosmetic Tax: 		     Rs. 1.5 
+ Grocery Tax: 		      Rs. 8.0 
+ Soft Drinks Tax: 		  Rs. 14.5 
+ Total Bill:		      Rs 400.0
+-------------------------------

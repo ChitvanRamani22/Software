@@ -1,0 +1,10 @@
+from tkinter import *
+top=Tk()
+top.title("Payment Successful")
+top.config(background="white")
+top.geometry("245x151+550+230")
+top.resizable(0,0)
+photo=PhotoImage(file="success.png")
+t=Label(top,image=photo)
+t.place(x=0,y=0)
+top.mainloop()

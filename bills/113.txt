@@ -1,0 +1,16 @@
+              Welcome
+ Bill  Number: 113
+ Customer Name: rangesh
+ Customer Phone No:9752507816
+===============================
+ Products      Qty        Price
+===============================
+ Bath Soap:		1	  30 
+ Rice:		1	  80 
+ Pepsi:		1	  45 
+-------------------------------
+ Cosmetic Tax: 		     Rs. 1.5 
+ Grocery Tax: 		      Rs. 8.0 
+ Soft Drinks Tax: 		  Rs. 2.25 
+ Total Bill:		      Rs 155.0
+-------------------------------
